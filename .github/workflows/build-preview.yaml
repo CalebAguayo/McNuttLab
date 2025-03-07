@@ -18,7 +18,7 @@ permissions:
 
 jobs:
   build-preview:
-    runs-on: ubuntu-24.04.2
+    runs-on: ubuntu-24.04
 
     steps:
       # for debugging
