@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39591472
+  title: 'Exploring the host response in infected lung organoids using NanoString
+    technology: A statistical analysis of gene expression data.'
+  authors:
+  - Mostafa Rezapour
+  - Stephen J Walker
+  - David A Ornelles
+  - Muhammad Khalid Khan Niazi
+  - Patrick M McNutt
+  - Anthony Atala
+  - Metin Nafi Gurcan
+  publisher: PloS one
+  date: '2024-11-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39591472
+  term: McNutt PM[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39000579
   title: The Degradation of Botulinum Neurotoxin Light Chains Using PROTACs.
   authors:
