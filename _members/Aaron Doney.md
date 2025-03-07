@@ -1,5 +1,5 @@
 ---
-name: Vy Vuong
+name: Aaron Doney
 image: images/Team/thumbnail_Aaron Doney pic.jpg
 role: technician
 group: 
