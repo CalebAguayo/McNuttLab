@@ -74,7 +74,7 @@ Advance the next generation of scientists.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Team/Lab Photos/lab photo.jpg"
   link="team"
   title="Our Team"
   text=text
