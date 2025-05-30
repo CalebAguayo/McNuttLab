@@ -1,7 +1,7 @@
 ---
 name: Dejanae Potter
 image: images/photo.jpg
-role: technician
+role: phd
 group: 
 links:
 ---
