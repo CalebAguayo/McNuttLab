@@ -4,7 +4,6 @@ image: images/Team/caleb.jpg
 role: phd
 group: 
 links:
-  github:
   orcid: 0009-0003-1887-1517
 ---
 

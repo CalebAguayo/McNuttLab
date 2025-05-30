@@ -4,8 +4,6 @@ image: images/Team/AJ.jpg
 role: technician
 group: 
 links:
-  github:
-  orcid: 
 ---
 
 

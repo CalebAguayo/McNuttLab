@@ -4,8 +4,6 @@ image: images/Team/jacob c.jpg
 role: technician
 group: 
 links:
-  github:
-  orcid: 
 ---
 
 

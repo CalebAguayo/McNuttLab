@@ -1,6 +1,6 @@
 ---
 name: Lilly M. Karchalla
-image: images/photo.jpg
+image: images/Team/Karchalla, Lalitha 0822gs-4print.jpg
 role: phd
 group:
 Aliases:
