@@ -1,7 +1,7 @@
 ---
 name: Ratnakar Tripathi
 image: images/Team/ratnakar-tripathi-arvo-1582april 26, 2023 (1).jpg
-role: technician
+role: scientist
 group: 
 links:
     orchid: 0000-0002-7398-8115
