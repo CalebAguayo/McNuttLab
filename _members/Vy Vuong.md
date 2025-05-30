@@ -1,6 +1,6 @@
 ---
 name: Vy Vuong
-image: images/Team/Vuong, Vy 0822gs-6print.jpgimages/photo.jpg
+image: images/Team/Vuong, Vy 0822gs-6print.jpg
 role: phd
 group: 
 links:
